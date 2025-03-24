@@ -1,0 +1,14 @@
+C:\projects\homework\Homework3\Code\Excercise03\bin\Debug\net8.0\Excercise01.exe
+C:\projects\homework\Homework3\Code\Excercise03\bin\Debug\net8.0\Excercise01.deps.json
+C:\projects\homework\Homework3\Code\Excercise03\bin\Debug\net8.0\Excercise01.runtimeconfig.json
+C:\projects\homework\Homework3\Code\Excercise03\bin\Debug\net8.0\Excercise01.dll
+C:\projects\homework\Homework3\Code\Excercise03\bin\Debug\net8.0\Excercise01.pdb
+C:\projects\homework\Homework3\Code\Excercise03\obj\Debug\net8.0\Excercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\homework\Homework3\Code\Excercise03\obj\Debug\net8.0\Excercise01.AssemblyInfoInputs.cache
+C:\projects\homework\Homework3\Code\Excercise03\obj\Debug\net8.0\Excercise01.AssemblyInfo.cs
+C:\projects\homework\Homework3\Code\Excercise03\obj\Debug\net8.0\Excercise01.csproj.CoreCompileInputs.cache
+C:\projects\homework\Homework3\Code\Excercise03\obj\Debug\net8.0\Excercise01.dll
+C:\projects\homework\Homework3\Code\Excercise03\obj\Debug\net8.0\refint\Excercise01.dll
+C:\projects\homework\Homework3\Code\Excercise03\obj\Debug\net8.0\Excercise01.pdb
+C:\projects\homework\Homework3\Code\Excercise03\obj\Debug\net8.0\Excercise01.genruntimeconfig.cache
+C:\projects\homework\Homework3\Code\Excercise03\obj\Debug\net8.0\ref\Excercise01.dll

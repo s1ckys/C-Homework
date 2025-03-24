@@ -1,0 +1,14 @@
+C:\projects\homework\Homework4\Task04\bin\Debug\net8.0\Task04.exe
+C:\projects\homework\Homework4\Task04\bin\Debug\net8.0\Task04.deps.json
+C:\projects\homework\Homework4\Task04\bin\Debug\net8.0\Task04.runtimeconfig.json
+C:\projects\homework\Homework4\Task04\bin\Debug\net8.0\Task04.dll
+C:\projects\homework\Homework4\Task04\bin\Debug\net8.0\Task04.pdb
+C:\projects\homework\Homework4\Task04\obj\Debug\net8.0\Task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\homework\Homework4\Task04\obj\Debug\net8.0\Task04.AssemblyInfoInputs.cache
+C:\projects\homework\Homework4\Task04\obj\Debug\net8.0\Task04.AssemblyInfo.cs
+C:\projects\homework\Homework4\Task04\obj\Debug\net8.0\Task04.csproj.CoreCompileInputs.cache
+C:\projects\homework\Homework4\Task04\obj\Debug\net8.0\Task04.dll
+C:\projects\homework\Homework4\Task04\obj\Debug\net8.0\refint\Task04.dll
+C:\projects\homework\Homework4\Task04\obj\Debug\net8.0\Task04.pdb
+C:\projects\homework\Homework4\Task04\obj\Debug\net8.0\Task04.genruntimeconfig.cache
+C:\projects\homework\Homework4\Task04\obj\Debug\net8.0\ref\Task04.dll
